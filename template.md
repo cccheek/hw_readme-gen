@@ -6,12 +6,12 @@ Description of Project
 
 ## Table of Contents
 
-* Installation
-* Usage
-* License
-* Contributing
-* Tests
-* Questions
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Contributing](#Contributing)
+* [Tests](#Tests)
+* [Questions](#Questions)
 
 ## Installation
 How to install Project

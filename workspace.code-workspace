@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../uw-blv-fsf-ft-11-2020-u-c/week-05/09-NodeJS/02-Homework/Develop/utils"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
